@@ -25,7 +25,7 @@
 	"fileExtension": "exe",
 	"exeName": "Explorer++.exe",
 	"run": "false",
-    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Explorer++.exe"
+    "url": "https://picteon.dev/files/Explorer%2B%2B.exe"
   },
   {
     "name": "7-Zip",
@@ -77,4 +77,5 @@
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Roblox.Cursor.Fix.exe"
   },
 ]
+
 
