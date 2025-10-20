@@ -79,11 +79,12 @@
   {
     "name": "SalsaNOW Games",
 	"fileExtension": "exe",
-	"exeName": "SalsaNOWGames",
+	"exeName": "SalsaNOWGames.exe",
 	"run": "false",
     "url": "https://github.com/dpadGuy/SalsaNOWGames/releases/download/Release/SalsaNOWGames.exe"
   },
 ]
+
 
 
 
