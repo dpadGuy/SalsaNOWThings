@@ -76,6 +76,14 @@
 	"run": "false",
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Roblox.Cursor.Fix.exe"
   },
+  {
+    "name": "SalsaNOW Games",
+	"fileExtension": "exe",
+	"exeName": "SalsaNOWGames",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/SalsaNOWGames/releases/download/Release/SalsaNOWGames.exe"
+  },
 ]
+
 
 
