@@ -7,11 +7,11 @@
     "url": "https://github.com/dpadGuy/UwUTools_Binaries/releases/download/UwUToolsBinaries/UwUTools.exe"
   },
   {
-    "name": "Waterfox",
+    "name": "Brave",
 	"fileExtension": "zip",
-	"exeName": "waterfox.exe",
+	"exeName": "brave.exe",
 	"run": "false",
-    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Waterfox.zip"
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Brave.zip"
   },
   {
     "name": "System Informer",
@@ -91,4 +91,5 @@
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/EpicGamesInstallerGFN.exe"
   },
 ]
+
 
