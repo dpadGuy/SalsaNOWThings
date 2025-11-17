@@ -65,7 +65,7 @@
   {
 	"name": "SWA",
 	"fileExtension": "zip",
-	"exeName": "SWAV2.exe",
+	"exeName": "SWA.exe",
 	"run": "false",
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/SWA.zip"
   },
@@ -91,6 +91,7 @@
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/EpicGamesInstallerGFN.exe"
   },
 ]
+
 
 
 
