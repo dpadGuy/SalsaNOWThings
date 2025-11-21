@@ -81,7 +81,7 @@
 	"fileExtension": "exe",
 	"exeName": "SalsaNOWGames.exe",
 	"run": "false",
-    "url": "https://github.com/dpadGuy/SalsaNOWGames/releases/download/Release_V1.1/SalsaNOWGames.exe"
+    "url": "https://github.com/dpadGuy/SalsaNOWGames/releases/download/Release_V1.2/SalsaNOWGames.exe"
   },
   {
     "name": "Epic Games",
@@ -91,7 +91,3 @@
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/EpicGamesInstallerGFN.exe"
   },
 ]
-
-
-
-
