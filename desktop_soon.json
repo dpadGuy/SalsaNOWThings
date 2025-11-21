@@ -1,0 +1,16 @@
+[
+  {
+	"name": "WinXShell_Steam",
+    "exeName": "Steam.exe",
+	"taskbarFixer": "WSSolution.exe",
+	"run": "true",
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/WinXShell_Steam.zip"
+  },
+  {
+	"name": "seelenui",
+	"exeName": "seelen-ui.exe",
+	"run": "true",
+        "zipConfig": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/SeelenUiConfig.zip",
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/seelenui.zip"
+  },
+]
