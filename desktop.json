@@ -1,10 +1,10 @@
 [
   {
-	"name": "WinXShell_Steam",
-    "exeName": "Steam.exe",
+	"name": "WinXShell_Ubisoft",
+    "exeName": "upc.exe",
 	"taskbarFixer": "WSSolution.exe",
 	"run": "true",
-    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/WinXShell_Steam.zip"
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/WinXShell_Ubisoft.zip"
   },
   {
 	"name": "seelenui",
