@@ -90,5 +90,11 @@
 	"run": "false",
     "url": "https://github.com/dpadGuy/EpicGamesInstallerGFN/releases/download/EpicGamesInstallerGFNV1.0/EpicGamesInstallerGFN.exe"
   },
+  {
+	"name": "GameManager",
+	"fileExtension": "zip",
+	"exeName": "GameManager.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/GameManager.zip"
+  },
 ]
-
